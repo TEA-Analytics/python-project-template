@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+myenv/
+
+# Do not save data files
+*.csv
+*.xlsx
+
+# documentation & logs
+*.pptx
+*.png
+*.log
+*.lnk

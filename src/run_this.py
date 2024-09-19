@@ -9,6 +9,7 @@ Executable scripts containing project entry points should sit directly under the
 """
 
 # imports
+import requests
 
 # config
 
