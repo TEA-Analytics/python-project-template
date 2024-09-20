@@ -1,6 +1,7 @@
 __pycache__/
 .vscode/
 myenv/
+.idea/
 
 # Do not save data files
 *.csv
